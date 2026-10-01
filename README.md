@@ -9,8 +9,9 @@ Replication code for **Household Unit Values, Measurement Units, and the Current
 - `laaids_public_analysis.R`: the complete analysis.
 - `food_group_mapping.csv`: the item classifications and inclusion rules used in the paper.
 - `.gitignore`: excludes survey data and generated files.
+- `LICENSE`: the MIT License for the author-provided code, documentation, and food classification rules.
 
-The ignore rules allow only these public files and optional `LICENSE` and `CITATION.cff` files, including when a custom output directory is used.
+The ignore rules allow only these public files, this README, and an optional `CITATION.cff` file, including when a custom output directory is used.
 
 ## Data
 
@@ -153,3 +154,9 @@ Useful checks for the paper settings are:
 | Mean absolute conventional expenditure-elasticity difference | 0.307047 |
 
 Inspect the bootstrap design and success diagnostics, robustness scenario statuses, and Monte Carlo convergence outputs. The paper's simulation run had 65,000 converged model fits and no failed replications. These checks concern the maintained specification and its sensitivity; they do not establish that either empirical elasticity estimate is closest to an unknown true value.
+
+## License
+
+The author-provided analysis code, documentation, and food classification rules are available under the [MIT License](LICENSE), copyright (c) 2026 Hideyasu Sato.
+
+Survey data are not distributed with this repository and are not covered by this license. Obtain them from the provider and follow the applicable access and use conditions. Third-party R packages retain their own licenses.
