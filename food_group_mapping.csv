@@ -1,0 +1,141 @@
+item_code,item_name,food_group,include_main6,include_main8,include_all_clean,suggested_exclusion_reason
+101,Maize ufa mgaiwa (normal flour),cereals,TRUE,TRUE,TRUE,NA
+102,Maize ufa refined (fine flour),cereals,TRUE,TRUE,TRUE,NA
+103,Maize ufa processed madeya (bran flour - processed),cereals,TRUE,TRUE,TRUE,NA
+104,Maize grain (not as ufa),cereals,TRUE,TRUE,TRUE,NA
+105,Green Maize,cereals,TRUE,TRUE,TRUE,NA
+106,Rice,cereals,TRUE,TRUE,TRUE,NA
+107,Finger millet (mawere),cereals,TRUE,TRUE,TRUE,NA
+108,Sorghum (mapira),cereals,TRUE,TRUE,TRUE,NA
+109,Pearl millet (mchewere),cereals,TRUE,TRUE,TRUE,NA
+110,Wheat flour,cereals,TRUE,TRUE,TRUE,NA
+111,Bread,cereals,TRUE,TRUE,TRUE,NA
+112,"Buns, scones",cereals,TRUE,TRUE,TRUE,NA
+113,Biscuits,cereals,TRUE,TRUE,TRUE,NA
+114,"Spaghetti, macaroni, pasta",cereals,TRUE,TRUE,TRUE,NA
+115,Breakfast cereals,cereals,TRUE,TRUE,TRUE,NA
+116,Infant feeding cereals,cereals,TRUE,TRUE,TRUE,NA
+117,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+118,Maize ufa raw madeya (bran flour - unprocessed),cereals,TRUE,TRUE,TRUE,NA
+201,Cassava tubers,roots_tubers,TRUE,TRUE,TRUE,NA
+202,Cassava flour,roots_tubers,TRUE,TRUE,TRUE,NA
+203,White sweet potato,roots_tubers,TRUE,TRUE,TRUE,NA
+204,Orange sweet potato,roots_tubers,TRUE,TRUE,TRUE,NA
+205,Irish Potato,roots_tubers,TRUE,TRUE,TRUE,NA
+206,Potato crisps,prepared_snacks,FALSE,FALSE,FALSE,processed snack; not a core at-home food group
+207,"Plantain, cooking banana",roots_tubers,TRUE,TRUE,TRUE,NA
+208,Cocoyam (masimbi),roots_tubers,TRUE,TRUE,TRUE,NA
+209,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+301,"Bean, white",pulses_nuts,TRUE,TRUE,TRUE,NA
+302,"Bean, brown",pulses_nuts,TRUE,TRUE,TRUE,NA
+303,Pigeon pea (nandolo),pulses_nuts,TRUE,TRUE,TRUE,NA
+305,Groundnut flour,pulses_nuts,TRUE,TRUE,TRUE,NA
+306,Soyabean flour,pulses_nuts,TRUE,TRUE,TRUE,NA
+307,Ground bean (nzama),pulses_nuts,TRUE,TRUE,TRUE,NA
+308,Cowpea (khobwe),pulses_nuts,TRUE,TRUE,TRUE,NA
+309,Macademia nuts,pulses_nuts,TRUE,TRUE,TRUE,NA
+310,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+311,Groundnut (Shelled),pulses_nuts,TRUE,TRUE,TRUE,NA
+312,Groundnut Dried (UnShelled),pulses_nuts,TRUE,TRUE,TRUE,NA
+313,Groundnut Fresh (UnShelled),pulses_nuts,TRUE,TRUE,TRUE,NA
+401,Onion,vegetables,TRUE,TRUE,TRUE,NA
+402,Cabbage,vegetables,TRUE,TRUE,TRUE,NA
+403,Tanaposi/Rape,vegetables,TRUE,TRUE,TRUE,NA
+404,Nkhwani,vegetables,TRUE,TRUE,TRUE,NA
+405,Chinese cabbage,vegetables,TRUE,TRUE,TRUE,NA
+406,Other cultivated green leafy vegetables,vegetables,TRUE,TRUE,TRUE,NA
+407,Gathered wild green leaves,vegetables,TRUE,TRUE,TRUE,NA
+408,Tomato,vegetables,TRUE,TRUE,TRUE,NA
+409,Cucumber,vegetables,TRUE,TRUE,TRUE,NA
+410,Pumpkin,vegetables,TRUE,TRUE,TRUE,NA
+411,Okra / Therere,vegetables,TRUE,TRUE,TRUE,NA
+413,Mushroom,vegetables,TRUE,TRUE,TRUE,NA
+414,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+501,Eggs,animal_protein,TRUE,TRUE,TRUE,NA
+504,Beef,animal_protein,TRUE,TRUE,TRUE,NA
+505,Goat,animal_protein,TRUE,TRUE,TRUE,NA
+506,Pork,animal_protein,TRUE,TRUE,TRUE,NA
+507,Mutton,animal_protein,TRUE,TRUE,TRUE,NA
+508,Chicken - Whole,animal_protein,TRUE,TRUE,TRUE,NA
+509,"Other poultry - guinea fowl, doves, etc",animal_protein,TRUE,TRUE,TRUE,NA
+510,"Small animal – rabbit, mice, etc",animal_protein,TRUE,TRUE,TRUE,NA
+511,"Termites, other insects (eg Ngumbi, caterpillar)",animal_protein,TRUE,TRUE,TRUE,NA
+512,Tinned meat or fish,animal_protein,TRUE,TRUE,TRUE,NA
+515,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+522,Chicken - Pieces,animal_protein,TRUE,TRUE,TRUE,NA
+601,Mango,fruits,FALSE,TRUE,TRUE,NA
+602,Banana,fruits,FALSE,TRUE,TRUE,NA
+603,"Citrus – naartje, orange, etc",fruits,FALSE,TRUE,TRUE,NA
+604,Pineapple,fruits,FALSE,TRUE,TRUE,NA
+605,Papaya,fruits,FALSE,TRUE,TRUE,NA
+606,Guava,fruits,FALSE,TRUE,TRUE,NA
+607,Avocado,fruits,FALSE,TRUE,TRUE,NA
+608,"Wild fruit (masau, malambe, etc)",fruits,FALSE,TRUE,TRUE,NA
+609,Apple,fruits,FALSE,TRUE,TRUE,NA
+610,Other fruits (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+701,Fresh milk,dairy,FALSE,TRUE,TRUE,NA
+702,Powdered milk,dairy,FALSE,TRUE,TRUE,NA
+703,Margarine - Blue band,dairy,FALSE,TRUE,TRUE,NA
+704,Butter,dairy,FALSE,TRUE,TRUE,NA
+705,Chambiko - soured milk,dairy,FALSE,TRUE,TRUE,NA
+706,Yoghurt,dairy,FALSE,TRUE,TRUE,NA
+707,Cheese,dairy,FALSE,TRUE,TRUE,NA
+708,Infant feeding formula (for bottle),dairy,FALSE,TRUE,TRUE,NA
+709,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+801,Sugar,oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+802,Sugar cane,oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+803,Cooking oil,oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+804,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+810,Salt,oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+811,Spices,oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+812,"Yeast, baking powder, bicarbonate of soda",oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+813,Tomato sauce (bottle),oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+814,"Hot sauce (Nali, etc)",oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+815,"Jam, jelly",oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+816,"Sweets, candy, chocolates",sweets_snacks,FALSE,FALSE,FALSE,"sweets/snacks; optional, excluded from main system"
+817,Honey,oils_sugar_condiments,TRUE,TRUE,TRUE,NA
+818,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+820,Maize - boiled or roasted (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+821,Chips (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+822,Cassava - boiled (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+823,Eggs - boiled (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+824,Chicken (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+825,Meat (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+826,Fish (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+827,"Mandazi, doughnut (vendor)",prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+828,Samosa (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+829,Meal eaten at restaurant,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+830,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+831,Boiled sweet potatoes,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+832,Roasted sweet potatoes,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+833,Boiled groundnuts,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+834,Roasted groundnuts,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+835,Popcorn,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+836,Zikondamoyo / Nkate,prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+837,KALONGONDA (Mucuna),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+838,Cassava - roasted (vendor),prepared_vendor_foods,FALSE,FALSE,FALSE,prepared/vendor/restaurant food; not comparable to raw market prices
+901,Tea,nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+902,Coffee,nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+903,"Cocoa, milo",nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+904,Squash (Sobo drink concentrate),nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+905,Fruit juice,nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+906,Freezes (flavoured ice),nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+907,"Soft drinks (Coca-cola, Fanta, Sprite, etc)",nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+908,Chibuku(commercial traditional-style beer),alcohol,FALSE,FALSE,FALSE,alcohol; excluded from food demand main system
+909,Bottled water,nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+910,Maheu,nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+911,"Bottled / canned beer (Carlsberg, etc)",alcohol,FALSE,FALSE,FALSE,alcohol; excluded from food demand main system
+912,Thobwa,nonalcoholic_beverages,FALSE,FALSE,TRUE,NA
+913,Traditional beer (masese),alcohol,FALSE,FALSE,FALSE,alcohol; excluded from food demand main system
+914,Wine or commercial liquor,alcohol,FALSE,FALSE,FALSE,alcohol; excluded from food demand main system
+915,Locally brewed liquor (kachasu ),alcohol,FALSE,FALSE,FALSE,alcohol; excluded from food demand main system
+916,Other (specify),other_unspecified,FALSE,FALSE,FALSE,other/specify item; difficult to map consistently
+5021,Sun Dried fish (Large Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5022,Sun Dried fish (Medium Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5023,Sun Dried fish (Small Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5031,Fresh fish (Large Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5032,Fresh fish (Medium Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5033,Fresh fish (Small Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5121,Smoked fish (Large Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5122,Smoked fish (Medium Variety),animal_protein,TRUE,TRUE,TRUE,NA
+5123,Smoked fish (Small Variety),animal_protein,TRUE,TRUE,TRUE,NA

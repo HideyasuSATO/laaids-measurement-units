@@ -1,0 +1,7 @@
+*
+!.gitignore
+!README.md
+!laaids_public_analysis.R
+!food_group_mapping.csv
+!LICENSE
+!CITATION.cff
